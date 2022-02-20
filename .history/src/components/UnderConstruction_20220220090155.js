@@ -54,7 +54,7 @@ const servicesList = [
 const UnderConstruction = () => {
   return (
     <div className="w-full flex flex-col justify-center items-center space-y-10 p-10">
-      <h2 className="text-gray-700 text-xl font-semibold text-center">
+      <h2 className="text-gray-700 text-xl font-semibold tex">
         Your <span className="text-teal-600">Dream</span> is under construction
       </h2>
       <p className="text-gray-400 text-sm text-center max-w-lg">
